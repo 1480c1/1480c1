@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently maintaining [mabs](https://github.com/m-ab-s/media-autobuild_suite)
+
+I'm currently contributing to [SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1)
+
+My favorite fruit are :orange:s
