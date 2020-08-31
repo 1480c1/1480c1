@@ -21,4 +21,4 @@ I'm currently contributing to [SVT-AV1](https://github.com/OpenVisualCloud/SVT-A
 
 My favorite fruit is :orange:
 
-[![Never Gonna Give You Up](http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Never Gonna Give You Up")
+[![](https://cdn.discordapp.com/attachments/696849974666985494/750080934065209434/about-me-leon-severan-we-buy-houses.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Never Gonna Give You Up")
